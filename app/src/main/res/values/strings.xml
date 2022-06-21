@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">BirthdayReminder</string>
+    <string name="title_activity_remind_screen">RemindScreenActivity</string>
+</resources>
